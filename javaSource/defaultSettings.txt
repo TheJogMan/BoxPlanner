@@ -1,0 +1,271 @@
+{
+	"ListValue":"BoxList": ["Data":
+		{
+			"String":"Name": "9 Box",
+			"Float":"Width": 9.0,
+			"Float":"Length": 6.0,
+			"Float":"Height": 4.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "9B"
+		},
+		{
+			"String":"Name": "11 Box",
+			"Float":"Width": 11.0,
+			"Float":"Length": 7.0,
+			"Float":"Height": 6.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "11B"
+		},
+		{
+			"String":"Name": "13 Box",
+			"Float":"Width": 13.0,
+			"Float":"Length": 7.5,
+			"Float":"Height": 13.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "13B"
+		},
+		{
+			"String":"Name": "15 Box",
+			"Float":"Width": 15.0,
+			"Float":"Length": 11.0,
+			"Float":"Height": 13.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "15B"
+		},
+		{
+			"String":"Name": "15 Flat",
+			"Float":"Width": 15.0,
+			"Float":"Length": 11.0,
+			"Float":"Height": 5.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "15F"
+		},
+		{
+			"String":"Name": "19 Box",
+			"Float":"Width": 19.0,
+			"Float":"Length": 15.0,
+			"Float":"Height": 13.5,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "19B"
+		},
+		{
+			"String":"Name": "24 Box",
+			"Float":"Width": 24.0,
+			"Float":"Length": 17.0,
+			"Float":"Height": 15.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "24B"
+		},
+		{
+			"String":"Name": "29 Flat",
+			"Float":"Width": 29.0,
+			"Float":"Length": 21.0,
+			"Float":"Height": 5.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "29F"
+		},
+		{
+			"String":"Name": "29 Box",
+			"Float":"Width": 29.0,
+			"Float":"Length": 21.0,
+			"Float":"Height": 18.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "29B"
+		},
+		{
+			"String":"Name": "36 Flat",
+			"Float":"Width": 36.0,
+			"Float":"Length": 21.0,
+			"Float":"Height": 5.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "36F"
+		},
+		{
+			"String":"Name": "36 Box",
+			"Float":"Width": 36.0,
+			"Float":"Length": 21.0,
+			"Float":"Height": 18.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "36B"
+		},
+		{
+			"String":"Name": "Short Rod",
+			"Float":"Width": 27.5,
+			"Float":"Length": 10.0,
+			"Float":"Height": 19.5,
+			"Boolean":"Telescoped": True,
+			"String":"Label": "SR"
+		},
+		{
+			"String":"Name": "Long Rod",
+			"Float":"Width": 50.0,
+			"Float":"Length": 10.0,
+			"Float":"Height": 19.5,
+			"Boolean":"Telescoped": True,
+			"String":"Label": "LR"
+		},
+		{
+			"String":"Name": "24 Flat",
+			"Float":"Width": 24.0,
+			"Float":"Length": 17.0,
+			"Float":"Height": 5.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "24F"
+		},
+		{
+			"String":"Name": "17 Box",
+			"Float":"Width": 17.0,
+			"Float":"Length": 13.0,
+			"Float":"Height": 12.0,
+			"Boolean":"Telescoped": False,
+			"String":"Label": "17B"
+		}
+	],
+	"ListValue":"RollList": ["Data":
+		{
+			"String":"Name": "3480",
+			"Float":"Diameter": 8.5,
+			"Float":"Height": 4.5,
+			"String":"Label": "80"
+		},
+		{
+			"String":"Name": "3090",
+			"Float":"Diameter": 8.5,
+			"Float":"Height": 4.5,
+			"String":"Label": "90"
+		},
+		{
+			"String":"Name": "3091",
+			"Float":"Diameter": 6.0,
+			"Float":"Height": 5.0,
+			"String":"Label": "91"
+		},
+		{
+			"String":"Name": "Packing Paper",
+			"Float":"Diameter": 11.5,
+			"Float":"Height": 12.0,
+			"String":"Label": "PP"
+		}
+	],
+	"ListValue":"CaseList": ["Data":
+		{
+			"String":"Name": "10x12 Ziplock",
+			"Float":"Width": 8.0,
+			"Float":"Height": 11.0,
+			"Float":"Length": 13.0,
+			"String":"Label": "Z1"
+		},
+		{
+			"String":"Name": "13x18 Ziplock",
+			"Float":"Width": 10.5,
+			"Float":"Height": 14.0,
+			"Float":"Length": 13.0,
+			"String":"Label": "Z2"
+		},
+		{
+			"String":"Name": "18x24 Ziplock",
+			"Float":"Width": 14.0,
+			"Float":"Height": 6.0,
+			"Float":"Length": 19.0,
+			"String":"Label": "Z3"
+		},
+		{
+			"String":"Name": "18x24 Polly Mailer",
+			"Float":"Width": 15.0,
+			"Float":"Height": 3.0,
+			"Float":"Length": 19.0,
+			"String":"Label": "P1"
+		},
+		{
+			"String":"Name": "24x34 Polly Mailer",
+			"Float":"Width": 11.0,
+			"Float":"Height": 3.5,
+			"Float":"Length": 25,
+			"String":"Label": "P2"
+		},
+		{
+			"String":"Name": "12x14 Polly Mailer",
+			"Float":"Width": 13.0,
+			"Float":"Height": 3.0,
+			"Float":"Length": 20.0,
+			"String":"Label": "P3"
+		},
+		{
+			"String":"Name": "EM7",
+			"Float":"Width": 15.0,
+			"Float":"Height": 20.5,
+			"Float":"Length": 14.5,
+			"String":"Label": "EM"
+		},
+		{
+			"String":"Name": "14x17 Polly Mailer",
+			"Float":"Width": 15.0,
+			"Float":"Height": 3.5,
+			"Float":"Length": 23,
+			"String":"Label": "P4"
+		},
+		{
+			"String":"Name": "10x13 Polly Mailer",
+			"Float":"Width": 10.5,
+			"Float":"Height": 5.5,
+			"Float":"Length": 18.5,
+			"String":"Label": "P5"
+		},
+		{
+			"String":"Name": "Shipping Label",
+			"Float":"Width": 8.0,
+			"Float":"Height": 9.0,
+			"Float":"Length": 15.5,
+			"String":"Label": "SH"
+		},
+		{
+			"String":"Name": "Large Leak Label",
+			"Float":"Width": 9.5,
+			"Float":"Height": 7.0,
+			"Float":"Length": 10.0,
+			"String":"Label": "LL"
+		},
+		{
+			"String":"Name": "Small Leak Label",
+			"Float":"Width": 9.0,
+			"Float":"Height": 7.0,
+			"Float":"Length": 10.0,
+			"String":"Label": "SL"
+		},
+		{
+			"String":"Name": "Small Bar Label",
+			"Float":"Width": 12.5,
+			"Float":"Height": 6.5,
+			"Float":"Length": 13,
+			"String":"Label": "SB"
+		},
+		{
+			"String":"Name": "Large Bar Label",
+			"Float":"Width": 8.0,
+			"Float":"Height": 10.5,
+			"Float":"Length": 16.5,
+			"String":"Label": "LB"
+		},
+		{
+			"String":"Name": "Picking Label",
+			"Float":"Width": 8.0,
+			"Float":"Height": 9.5,
+			"Float":"Length": 10.5,
+			"String":"Label": "PL"
+		},
+		{
+			"String":"Name": "Crinkle Paper",
+			"Float":"Width": 9.5,
+			"Float":"Height": 9.5,
+			"Float":"Length": 18.0,
+			"String":"Label": "CP"
+		},
+		{
+			"String":"Name": "Brown Tape",
+			"Float":"Width": 10.0,
+			"Float":"Height": 9.0,
+			"Float":"Length": 19.0,
+			"String":"Label": "BT"
+		}
+	]
+}
